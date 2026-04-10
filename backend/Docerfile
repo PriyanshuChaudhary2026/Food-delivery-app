@@ -1,3 +1,4 @@
+
 # Use OpenJDK 8 base image
 FROM openjdk:8
 
